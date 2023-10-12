@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>{{ title }} - Microblog</title>
+    </head>
+    <body>
+        {% if time_of_day == "morning" %}
+            <h1>Доброе утро, {{ user.username }}!</h1>
+        {% elif time_of_day == "day" %}
+            <h1>Добрый день, {{ user.username }}!</h1>
+        {% elif time_of_day == "evening" %} 
+            <h1>Добрый вечер, {{ user.username }}!</h1>
+        {% else %}
+            <h1>Доброй ночи, {{ user.username }}!</h1>
+        {% endif %}
+        <ul>
+            {% for element in items %}
+                <li>{{element}}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
