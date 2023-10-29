@@ -24,8 +24,7 @@ If you want to see the app in action, fork the repository to your own computer a
 
 This assumes you have Python, Flask and SQLite installed in your computer, as well as a link to Bootstrap and the following modules necessary to run application.py installed:
 
-<code>
-from cs50 import SQL</code><br />
+<code>from cs50 import SQL</code><br />
 <code>from flask_session import Session</code><br />
 <code>from flask import Flask, render_template, redirect, request, session, jsonify</code><br />
 <code>from datetime import datetime</code>
