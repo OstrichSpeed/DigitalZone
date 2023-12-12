@@ -78,4 +78,6 @@
 **Окружающая среда** – это компоненты, которые окружают и взаимодействуют с интернет магазином.
 
 
+5. Пакетная диаграмма
 
+![Пакетная диаграмма](![alt text](https://github.com/OstrichSpeed/DigitalZone/blob/main/Package.drawio.png)
