@@ -80,4 +80,4 @@
 
 5. Пакетная диаграмма
 
-!(https://github.com/OstrichSpeed/DigitalZone/blob/main/Package.drawio.png)
+![Пакетная диаграмма](https://github.com/OstrichSpeed/DigitalZone/blob/main/Package.drawio.png)
