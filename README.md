@@ -81,3 +81,7 @@
 5. Пакетная диаграмма
 
 ![Пакетная диаграмма](https://github.com/OstrichSpeed/DigitalZone/blob/main/Package.drawio.png)
+
+6. Диарамма классов
+
+![Пакетная диаграмма](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/17_10_23_diagram_class.JPG)
