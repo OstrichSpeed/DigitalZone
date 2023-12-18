@@ -12,6 +12,7 @@
 - [Диаграмма классов](#диаграмма-классов)
 - [Диаграмма базы данных](#диаграмма-базы-данных)
 - [Сценарий оформления заказа](#сценарий-оформления-заказа)
+- [Экранные формы](#экранные-формы)
 
 ## Цель проекта
 1. Обеспечить безопасную среду для продвижения самых востребованных товаров и заказов;
@@ -102,3 +103,12 @@
 ## Сценарий оформления заказа
 ![Сценарий оформления заказа 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/QWTHG7fuYB0.jpg)
 ![Сценарий оформления заказа 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/w8SCXf918ek.jpg)
+
+## Экранные формы
+![Экранная форма 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/u1EzVrgYeGo.jpg)
+![Экранная форма 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Abg6F38Lugo.jpg)
+![Экранная форма 3](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/w8W_Z5uSg9M.jpg)
+![Экранная форма 4](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/vIdYHbCcqps.jpg)
+![Экранная форма 5](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/46IEEgAAbRs.jpg)
+![Экранная форма 6](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/x-r0XWisFXA.jpg)
+![Экранная форма 7](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/QmdGW2nhF88.jpg)
