@@ -9,7 +9,7 @@
 - [SWOT анализ](#SWOT-анализ)
 - [Глоссарий проекта](#глоссарий-проекта)
 - [Диараммы вариантов использования](#диараммы-вариантов-использования)
-- [Диарамма классов](#диарамма-классов)
+- [Диаграмма классов](#диаграмма-классов)
 - [Диаграмма базы данных](#диаграмма-базы-данных)
 
 ## Цель проекта
@@ -89,11 +89,11 @@
    - **Окружающая среда** – это компоненты, которые окружают и взаимодействуют с интернет магазином.
 
 ## Диараммы вариантов использования
-![Вариант использования 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/2e7zZYpo2I4.jpg)
-![Вариант использования 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/1pgvVMPOtbc.jpg)
+![ВИ 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/2e7zZYpo2I4.jpg)
+![ВИ 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/1pgvVMPOtbc.jpg)
 
-## Диарамма классов
-![Пакетная диаграмма](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/17_10_23_diagram_class.JPG)
+## Диаграмма классов
+![Диаграмма классов](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/17_10_23_diagram_class.JPG)
 
 ## Диаграмма базы данных
-(https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/7Jnu8TrJxls.jpg)
+![Диаграмма базы данных](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/7Jnu8TrJxls.jpg)
