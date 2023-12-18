@@ -13,6 +13,7 @@
 - [Диаграмма базы данных](#диаграмма-базы-данных)
 - [Сценарий оформления заказа](#сценарий-оформления-заказа)
 - [Экранные формы](#экранные-формы)
+- [Архитектура](#архитектура)
 
 ## Цель проекта
 1. Обеспечить безопасную среду для продвижения самых востребованных товаров и заказов;
@@ -112,3 +113,7 @@
 ![Экранная форма 5](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/46IEEgAAbRs.jpg)
 ![Экранная форма 6](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/x-r0XWisFXA.jpg)
 ![Экранная форма 7](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/QmdGW2nhF88.jpg)
+
+
+## Архитектура
+![Архитектура](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/RlaIbcxwBcI.jpg)
