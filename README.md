@@ -8,7 +8,12 @@
 - [Риски при осуществлении проекта](#риски-при-осуществлении-проекта)
 - [SWOT анализ](#SWOT-анализ)
 - [Глоссарий проекта](#глоссарий-проекта)
-- [Диарамма классов](#диарамма-классов)
+- [Диаграммы вариантов использования](#диаграммы-вариантов-использования)
+- [Диаграмма классов](#диаграмма-классов)
+- [Диаграмма базы данных](#диаграмма-базы-данных)
+- [Сценарий оформления заказа](#сценарий-оформления-заказа)
+- [Экранные формы](#экранные-формы)
+- [Архитектура](#архитектура)
 
 ## Цель проекта
 1. Обеспечить безопасную среду для продвижения самых востребованных товаров и заказов;
@@ -86,5 +91,29 @@
    - **Служба поддержки** – это группа сотрудников или автоматизированная система, предназначенная для оказания помощи и поддержки клиентам интернет-магазина. Она обеспечивает ответы на вопросы, решение проблем и обработку запросов клиентов.
    - **Окружающая среда** – это компоненты, которые окружают и взаимодействуют с интернет магазином.
 
-## Диарамма классов
-![Пакетная диаграмма](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/17_10_23_diagram_class.JPG)
+## Диаграммы вариантов использования
+![ВИ 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/2e7zZYpo2I4.jpg)
+![ВИ 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/1pgvVMPOtbc.jpg)
+
+## Диаграмма классов
+![Диаграмма классов](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/17_10_23_diagram_class.JPG)
+
+## Диаграмма базы данных
+![Диаграмма базы данных](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/7Jnu8TrJxls.jpg)
+
+## Сценарий оформления заказа
+![Сценарий оформления заказа 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/QWTHG7fuYB0.jpg)
+![Сценарий оформления заказа 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/w8SCXf918ek.jpg)
+
+## Экранные формы
+![Экранная форма 1](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/u1EzVrgYeGo.jpg)
+![Экранная форма 2](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Abg6F38Lugo.jpg)
+![Экранная форма 3](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/w8W_Z5uSg9M.jpg)
+![Экранная форма 4](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/vIdYHbCcqps.jpg)
+![Экранная форма 5](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/46IEEgAAbRs.jpg)
+![Экранная форма 6](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/x-r0XWisFXA.jpg)
+![Экранная форма 7](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/QmdGW2nhF88.jpg)
+
+
+## Архитектура
+![Архитектура](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/RlaIbcxwBcI.jpg)
