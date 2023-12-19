@@ -120,6 +120,8 @@
 
 ## Прототип сайта на python flask
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen4.PNG)
+![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen5.PNG)
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen1.PNG)
+![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen6.PNG)
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen2.PNG)
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen3.PNG)
