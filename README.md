@@ -14,7 +14,7 @@
 - [Сценарий оформления заказа](#сценарий-оформления-заказа)
 - [Экранные формы](#экранные-формы)
 - [Архитектура](#архитектура)
-- [Прототип сайта на flask (python)](#прототип-сайта-на-flask-(python))
+- [Прототип сайта на python flask](#Прототип-сайта-на-python-flask)
 
 ## Цель проекта
 1. Обеспечить безопасную среду для продвижения самых востребованных товаров и заказов;
@@ -118,7 +118,7 @@
 ## Архитектура
 ![Архитектура](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/RlaIbcxwBcI.jpg)
 
-## Прототип сайта на flask (python)
+## Прототип сайта на python flask
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen4.PNG)
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen1.PNG)
 ![Прототип сайта на flask (python)](https://github.com/OstrichSpeed/DigitalZone/blob/Cleanup/Screen2.PNG)
